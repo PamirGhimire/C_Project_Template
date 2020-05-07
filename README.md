@@ -36,3 +36,7 @@ These instructions are meant for a Windows environment, but will be similar on L
 
 To learn more about how to setup a development environment for this template on Windows 10, 
 you can refer this article : https://medium.com/@pamirghimire/setting-up-a-professional-c-development-environment-in-windows-10-3486cd395a47
+
+
+The template implements the following architecture : 
+![Template Architecture](/C_Project_Template_Architecture.png)
