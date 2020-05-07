@@ -19,7 +19,7 @@ You will need the following things installed to be able to work with this templa
   - Make (MinGW on Windows, GCC on Linux)
     https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/
     
-  - GDB for debugging
+  - GDB for debugging :
     If you want to use GDB with VS Code, best to use the GDB binary that comes with the MinGW installation. You can find it at :             path/to/MinGW/bin/gdb.exe
     
   - Git (Version 2.25 or greater recommended)
