@@ -1,5 +1,5 @@
 # Note : There are significant changes version 3.15 onwards.
-cmake_minimum_required(VERSION 3.15.0)
+cmake_minimum_required(VERSION 3.10.0)
 project(SAMPLE_APP VERSION 1.0.0 LANGUAGES C)
 
 if(UNIX)

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/library1_test.dir/library1_test.c.o  -o bin/library1_test ../../cmocka/libcmocka_testing_lib.a ../../../library1/liblibrary1.a 

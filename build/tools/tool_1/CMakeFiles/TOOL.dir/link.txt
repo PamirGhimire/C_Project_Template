@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/TOOL.dir/tool_main.c.o  -o bin/TOOL libtool_lib.a ../../src/libsource_lib.a ../../library1/liblibrary1.a ../../library2/liblibrary2.a 
